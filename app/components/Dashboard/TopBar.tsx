@@ -8,10 +8,10 @@ const TopBar = () => {
         {/* Good morning, Boluwatife! */}
         <div>
           <span className="text-sm font-bold block">
-            Good morning, Boluwatife!
+            Good evening, Boluwatife!
           </span>
           <span className="text-xs block text-stone-500">
-            Tuesday, June 15th 2025
+            Tuesday, June 25th 2025
           </span>
         </div>
         <button className="flex text-sm items-center gap-2 bg-stone-100 transition-colors hover:bg-violet-100 hover:text-violet-700 px-3 py-1.5 rounded">
